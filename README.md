@@ -42,6 +42,12 @@ Klikając prawym przyciskiem myszy na ikonę programu obok zegarka, masz dostęp
 > ### 📥 [KLIKNIJ TUTAJ, ABY PRZEJŚĆ DO STRONY POBIERANIA v1.0.0](https://github.com/Maxima-Wawa/tlumacz_1.0.0/releases/tag/v1.0.0)
 > *(Link przeniesie Cię do oficjalnego wydania, gdzie znajdziesz pełną instrukcję oraz plik `.rar` w sekcji Assets).*
 
+
+⚠️ Ważna informacja dot. gier sieciowych (Anti-Cheat):
+Program działa w 100% zewnętrznie – nie modyfikuje plików gry ani jej pamięci RAM. Jednak ze względu na to, że aplikacja wykonuje zrzut ekranu w celu odczytania tekstu (OCR), automatyczne systemy ochrony w grach sieciowych (np. Vanguard, Easy Anti-Cheat) mogą zinterpretować to zachowanie jako podejrzane.
+Zaleca się używanie programu głównie w grach dla pojedynczego gracza (Singleplayer). Używasz w grach Multiplayer na własną odpowiedzialność.
+
+
 # 🎮 
 ### 🎯 Inteligentne spolszczenia gier i tłumaczenie gier w czasie rzeczywistym, Program do spolszczenia gier w czasie rzeczywistym
 ### 🚀 Graj po polsku w każdą grę!
