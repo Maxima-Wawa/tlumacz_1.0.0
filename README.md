@@ -38,3 +38,9 @@ Program działa w tle(cała analiza odbywa się bezpośrednio w pamięci RAM).
 Klikając prawym przyciskiem myszy na ikonę programu obok zegarka, masz dostęp do:
 * **Info:** Szybki podgląd informacji o autorze, wersji oraz instrukcji bezpośrednio w systemowym oknie Windows.
 * **Wyście:** Całkowite i bezpieczne zamknięcie programu i zwolnienie pamięci RAM.
+# 🚀 WERSJA STABILNA
+> ### 📥 [KLIKNIJ TUTAJ, ABY PRZEJŚĆ DO STRONY POBIERANIA v1.0.0](https://github.com/Maxima-Wawa/tlumacz_1.0.0/releases/tag/v1.0.0)
+> *(Link przeniesie Cię do oficjalnego wydania, gdzie znajdziesz pełną instrukcję oraz plik `.rar` w sekcji Assets).*
+
+---
+---
